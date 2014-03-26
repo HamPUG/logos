@@ -1,4 +1,4 @@
 logos
 =====
 
-Logos to the group
+Logos for the group.
